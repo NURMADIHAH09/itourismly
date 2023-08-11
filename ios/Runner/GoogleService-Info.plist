@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>190179681160-k5l3ucc2tu16v4gm0cga2hvucmefbq86.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.190179681160-k5l3ucc2tu16v4gm0cga2hvucmefbq86</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDquMHlPJ3jBr25aNU6N4LSjX9K-SaGKV0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>190179681160</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.itourismly</string>
+	<key>PROJECT_ID</key>
+	<string>itourismlyfyp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>itourismlyfyp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:190179681160:ios:32cf0541b836f5efaf503d</string>
+</dict>
+</plist>
